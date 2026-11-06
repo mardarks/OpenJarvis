@@ -1,0 +1,5 @@
+miequipo/
+__pycache__/
+*.txt
+*.png
+.DS_Store
